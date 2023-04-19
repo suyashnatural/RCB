@@ -31,7 +31,7 @@ source venv/bin/activate
 ## Step 5 : Install pytest in the virtual env
 
 ```bash
-python3 -m pip install pytest
+ pip3 install -r requirements.txt
 ```
 
 ## Step 6: Execute the test
